@@ -1,0 +1,2 @@
+# HospitalApi
+Stretcher Management 
